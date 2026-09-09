@@ -1,0 +1,22 @@
+About HTML
+There two segemnts in an HTML File
+Head and Body
+
+Body :-
+This part contains the contents which will be shown on the web page.
+The commands include h1, p, u,br, hr, em, code etc. each having there own font styles.
+
+Head :-
+It basically handles everything outside the main contents such as the title of the page, the image to be used for the page, the beautification of the link of the page etc.
+
+About GitHub Deployement :-
+Step 1 : Making repositary
+Step 2 : Open repositary settings
+Step 3 : Click on Pages shown on the left sidebar.
+Step 4 : Click on the "Deploy from a branch" dropdown
+Step 5 : Select GitHub actions
+
+Your repositary will be deployed then and you can find the link in pages or action sections.
+
+Now in the repositary copy the path of the HTML file then open the the link GitHub provided after Deployement and paste the path in continuation.
+That is the full link of your HTML file which has been deployed.
